@@ -1,0 +1,10 @@
+datasets/
+*.jpg/
+
+*.env/
+pred/
+static/
+templates/
+uploads/
+
+
